@@ -1,0 +1,13 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar-nav a {
+    color: limegreen;
+}
+
+.sidebar-nav a:hover {
+    color: aquamarine;
+}
